@@ -20,7 +20,7 @@ package practice;
 public class PrintPattern1 {
 
 	public static void main(String[] args) {
-		int n = 2;
+		int n = 6;
 		
 		for(int i = n; i >= 1; i--) {
             int toprint = n;
