@@ -4,7 +4,7 @@ package practice;
  * @author NAMRATA
  *
  *
- * Given two numbers A and B, find Kth digit from right of AB.
+ * Given two numbers A and B, find Kth digit from right of A^B.
  */
 public class KthDigit {
 
